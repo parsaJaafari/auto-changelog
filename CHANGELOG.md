@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.0.0](https://github.com/parsaJaafari/auto-changelog/compare/v2.1.0...v3.0.0) (2022-08-09)
+
+
+### ⚠ BREAKING CHANGES
+
+* **server:** no need for creating server with http server
+
+### Features
+
+* **server:** add express ([8704334](https://github.com/parsaJaafari/auto-changelog/commit/87043348b0d929a4985fb81390950767bd7a3bff))
+
 ## [2.1.0](https://github.com/parsaJaafari/auto-changelog/compare/v2.0.2...v2.1.0) (2022-08-09)
 
 

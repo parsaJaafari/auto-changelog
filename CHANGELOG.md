@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/parsaJaafari/auto-changelog/compare/v1.1.4...v1.2.0) (2022-08-09)
+
+
+### Features
+
+* add express ([e6bffa9](https://github.com/parsaJaafari/auto-changelog/commit/e6bffa9d0de283f46fef41b80a9b2571fd91dfa3))
+
 ### [1.1.4](https://github.com/parsaJaafari/auto-changelog/compare/v1.1.3...v1.1.4) (2022-08-09)
 
 ### [1.1.3](https://github.com/parsaJaafari/auto-changelog/compare/v1.1.2...v1.1.3) (2022-08-09)

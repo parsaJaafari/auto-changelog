@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/parsaJaafari/auto-changelog/compare/v1.2.4...v2.0.0) (2022-08-09)
+
+
+### ⚠ BREAKING CHANGES
+
+* add index file
+
+* add index file ([8375b02](https://github.com/parsaJaafari/auto-changelog/commit/8375b02a54707c560df55e561ce1ccd02ba57f7a))
+
 ### [1.2.4](https://github.com/parsaJaafari/auto-changelog/compare/v1.2.3...v1.2.4) (2022-08-09)
 
 ### [1.2.3](https://github.com/parsaJaafari/auto-changelog/compare/v1.2.2...v1.2.3) (2022-08-09)

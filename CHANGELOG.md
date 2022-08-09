@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.1.0](https://github.com/parsaJaafari/auto-changelog/compare/v2.0.2...v2.1.0) (2022-08-09)
+
+
+### Features
+
+* new log in file ([33fefdc](https://github.com/parsaJaafari/auto-changelog/commit/33fefdc855ef6c3c6e86b11ba70c84b798de6141))
+
 ### [2.0.2](https://github.com/parsaJaafari/auto-changelog/compare/v2.0.1...v2.0.2) (2022-08-09)
 
 ### [2.0.1](https://github.com/parsaJaafari/auto-changelog/compare/v2.0.0...v2.0.1) (2022-08-09)

@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.1.0](https://github.com/parsaJaafari/auto-changelog/compare/v3.0.0...v3.1.0) (2022-08-09)
+
+
+### Features
+
+* add server ([01787bb](https://github.com/parsaJaafari/auto-changelog/commit/01787bb6f74e211251bed248dfad0797348a524b))
+
 ## [3.0.0](https://github.com/parsaJaafari/auto-changelog/compare/v2.1.0...v3.0.0) (2022-08-09)
 
 

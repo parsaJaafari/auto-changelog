@@ -9,3 +9,5 @@ app.get("/", (req, res) => {
 app.listen(3000, () => console.log("listening on port 3000"));
 
 console.log("new log on server");
+
+console.log("arbitary test log");
